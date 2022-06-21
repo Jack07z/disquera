@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bodydisquera
+{
+    height: 90vh;
+    background-image: linear-gradient(to top, #a8caba 0%, #5d4157 100%);   
+}
+.bodyartista
+{
+    height: 120vh;
+    background-image: linear-gradient(to top, #a8caba 0%, #5d4157 100%); 
+}
+.bodycancion
+{
+    height: 80vh;
+    background-image: linear-gradient(to top, #a8caba 0%, #5d4157 100%);
+}
+.bodylist
+{
+    height: 100vh;
+    background-image: linear-gradient(to top, #a8caba 0%, #5d4157 100%); 
+}
+body
+{
+    height: 68vh;
+    background-image: linear-gradient(to top, #a8caba 0%, #5d4157 100%);
+}
+.control
+{
+    margin-top: 200px;
+}
+.controllista
+{
+    color: black;
+    font-size: large;
+    margin-top: 200px;
+}
+.nav-2
+{
+    margin-top: 50px;
+}

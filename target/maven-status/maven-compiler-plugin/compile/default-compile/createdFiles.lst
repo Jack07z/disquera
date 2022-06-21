@@ -1,0 +1,14 @@
+model\Artista\ArtistaDao.class
+controller\DisqueraController.class
+model\Album\AlbumDao.class
+model\Genero\GeneroDao.class
+controller\AlbumController.class
+config\Conexion.class
+model\Genero\GeneroVo.class
+controller\GeneroController.class
+model\Artista\ArtistaVo.class
+model\Album\AlbumVo.class
+model\Cancion\CancionDao.class
+model\Disquera\DisqueraVo.class
+model\Disquera\DisqueraDao.class
+model\Cancion\CancionVo.class
